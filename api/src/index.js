@@ -1,1 +1,1 @@
-module.exports.a = ()=> 7;
+module.exports.a = ()=> 1;
